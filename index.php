@@ -96,6 +96,7 @@
 <body>
 
   <section class>
+  
     <nav class="navbar  navbar-expand-lg navbar-light bg-light ">
       <div class="container-fluid">
         <div class="brand d-flex justify-content-between align-items-center">
@@ -131,6 +132,10 @@
       <div class="row ">
         <h1 class="fw-bold">KITCHNIDS WILL MAKE IT HAPPEN</h1>
           <h2 class="fw-bold">What You See is What You Get</h2>
+          <form class="d-flex" action="" method="post">
+        <input size="30" name="keyword" class="form-control me-2"  type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-danger" name="cari" type="submit"><i class="bi bi-search"></i></button>
+      </form>
           <!-- <div>
             <button type="button" class="btn btn-warning">
               <h6>Selengkapnya</h6>
