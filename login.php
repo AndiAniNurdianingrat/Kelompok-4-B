@@ -75,7 +75,6 @@ if(isset($_SESSION["log"]) == true){
       /* height: 600px;
       position: relative; */
     }
-
     
 </style>
 
