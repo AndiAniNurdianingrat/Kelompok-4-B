@@ -75,8 +75,8 @@
   }
 
   #home {
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/background.jpg);
-      height: 600px;
+    background-image: url("background.jpg");
+      height: 500px;
       position: relative;
   }
   #home .container .row{
