@@ -41,7 +41,7 @@
 	<!-- footer -->
 	<footer>
 		<div class="container">
-			<small>Copyright &copy; 2020 - Kitch.nids.</small>
+			<small>Copyright &copy; 2022 - Kitch.nids.</small>
 		</div>
 	</footer>
 </body>
